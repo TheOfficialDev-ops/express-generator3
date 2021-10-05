@@ -24,7 +24,7 @@
     "express-generator",
     "express-generator2"
   ],
-  "repository": "expressjs/generator",
+  "repository": "TheOfficialDev-ops/express-generator2",
   "license": "MIT",
   "dependencies": {
     "commander": "2.15.1",
