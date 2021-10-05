@@ -1,5 +1,5 @@
 {
-  "name": "express-generator2",
+  "name": "express-generator3",
   "description": "Express' application generator (V2)",
   "version": "1.0.0",
   "author": "The Official Dev <theofficial.dev204@gmail.com>",
@@ -24,7 +24,7 @@
     "express-generator",
     "express-generator2"
   ],
-  "repository": "TheOfficialDev-ops/express-generator2",
+  "repository": "TheOfficialDev-ops/express-generator3",
   "license": "MIT",
   "dependencies": {
     "commander": "2.15.1",
